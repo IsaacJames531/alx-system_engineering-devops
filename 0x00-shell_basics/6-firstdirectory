@@ -1,2 +1,2 @@
 #!/bin/bash
-touch 6-firstdirectory root@eb92273edcaf:/tmp#
+mkdir /tmp/my_first_directory/
