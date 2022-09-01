@@ -1,2 +1,3 @@
- #! /bin/sh.
-mv 0x00-shell_basics/*[A-Z]*/tmp/u 
+#!bin/bash
+#!bin/sh
+mv 0x00-shell_basic/*[A-Z]* /tmp/u
